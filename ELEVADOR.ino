@@ -28,7 +28,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  
 
     estado1 = digitalRead(derecha);
     estado2 = digitalRead(izquierda);
